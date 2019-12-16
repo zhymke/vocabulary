@@ -19,8 +19,6 @@ import java.util.concurrent.Executors;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static java.nio.charset.StandardCharsets.UTF_8;
-
 @Service
 @Log4j2
 public class VocabularyService {

@@ -1,7 +1,9 @@
 package lt.zymantas.vocabulary.RenameMe;
 
-import lt.zymantas.vocabulary.*;
-import org.junit.jupiter.api.Assertions;
+import lt.zymantas.vocabulary.FileReadException;
+import lt.zymantas.vocabulary.Item;
+import lt.zymantas.vocabulary.VocabularyController;
+import lt.zymantas.vocabulary.VocabularyService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

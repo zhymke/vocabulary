@@ -2,12 +2,10 @@ package lt.zymantas.vocabulary.RenameMe;
 
 import lt.zymantas.vocabulary.Item;
 import lt.zymantas.vocabulary.VocabularyService;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.mock.web.MockMultipartFile;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 import java.util.List;
